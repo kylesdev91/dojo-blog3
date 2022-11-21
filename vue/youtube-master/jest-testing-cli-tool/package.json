@@ -1,0 +1,16 @@
+{
+  "name": "jest-testing-cli-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:unit": "jest --coverage src/*.test.js",
+    "test:integration": "jest integration/*.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}

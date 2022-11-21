@@ -1,0 +1,36 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-vuereactiontimerkh13-dev-163918-authRole",
+            "UnauthRoleArn": "arn:aws:iam::148299306225:role/amplify-vuereactiontimerkh13-dev-163918-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::148299306225:role/amplify-vuereactiontimerkh13-dev-163918-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-vuereactiontimerkh13-dev-163918-deployment",
+            "UnauthRoleName": "amplify-vuereactiontimerkh13-dev-163918-unauthRole",
+            "StackName": "amplify-vuereactiontimerkh13-dev-163918",
+            "StackId": "arn:aws:cloudformation:us-east-1:148299306225:stack/amplify-vuereactiontimerkh13-dev-163918/7f72b4c0-c18f-11eb-954f-0ee0fb3948c5",
+            "AmplifyAppId": "d1wqjp46wyrv4b"
+        }
+    },
+    "devgood": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-vuereactiontimerkh13-devgood-193905-authRole",
+            "UnauthRoleArn": "arn:aws:iam::148299306225:role/amplify-vuereactiontimerkh13-devgood-193905-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::148299306225:role/amplify-vuereactiontimerkh13-devgood-193905-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-vuereactiontimerkh13-devgood-193905-deployment",
+            "UnauthRoleName": "amplify-vuereactiontimerkh13-devgood-193905-unauthRole",
+            "StackName": "amplify-vuereactiontimerkh13-devgood-193905",
+            "StackId": "arn:aws:cloudformation:us-east-1:148299306225:stack/amplify-vuereactiontimerkh13-devgood-193905/f0a903e0-c33a-11eb-b364-0e2aa313290f",
+            "AmplifyAppId": "d3hd5zrxy42yee"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d3hd5zrxy42yee",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}

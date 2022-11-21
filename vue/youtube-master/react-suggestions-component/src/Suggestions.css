@@ -1,0 +1,31 @@
+input,
+button {
+  padding: 4px;
+  font-size: 20px;
+}
+
+.wrapper {
+  display: inline-block;
+}
+
+.suggestions {
+  width: 300px;
+  max-height: 200px;
+  position: absolute;
+  box-shadow: 3px 3px 5px #999;
+  background-color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.suggestion {
+  text-align: left;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 10px;
+  cursor: pointer;
+}
+
+.suggestion:hover {
+  background-color: #eee;
+}
